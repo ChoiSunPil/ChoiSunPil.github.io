@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "최선필"
+  avatar           : "/assets/images/icon.jpeg"
+  bio              : "같지만 다른 개발자가 되고싶어요."
+  location         : "Seoul in Korea"
+  email            : "roung4119@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
